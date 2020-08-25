@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="endnotes.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Punctuation is part of the book title.</reason>
+		</ignore>
+	</file>
+	<file path="endnotes.xhtml">
+		<ignore>
+			<code>t-021</code>
+			<reason>Matched text is not a measurement.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
