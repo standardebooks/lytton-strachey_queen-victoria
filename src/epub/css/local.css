@@ -1,5 +1,5 @@
 @charset "utf-8";
-@namespace epub "http://www.idpf.org/2007/";
+@namespace epub "http://www.idpf.org/2007/ops";
 
 #foreword{
 	margin-top: 20vh;
@@ -27,4 +27,9 @@
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
+}
+
+[epub|type~="z3998:song"] div p{
+	text-align: center;
+	font-style: italic;
 }
