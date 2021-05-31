@@ -53,7 +53,6 @@
 		<meta property="se:production-notes">I put all of the bibliographical information into the endnotes.</meta>
 		<meta property="se:word-count">88042</meta>
 		<meta property="se:reading-ease.flesch">58.32</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Queen_Victoria</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lytton-strachey_queen-victoria</meta>
 		<dc:creator id="author">Lytton Strachey</dc:creator>
 		<meta property="file-as" refines="#author">Strachey, Lytton</meta>
