@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #foreword{
-	margin-top: 20vh;
 	font-style: italic;
+	margin-top: 20vh;
 }
 
 [epub|type~="z3998:song"] p,
@@ -30,6 +30,6 @@ p span.i1{
 }
 
 [epub|type~="z3998:song"] div p{
-	text-align: center;
 	font-style: italic;
+	text-align: center;
 }
