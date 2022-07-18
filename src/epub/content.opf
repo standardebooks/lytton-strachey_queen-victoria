@@ -40,7 +40,7 @@
 		<meta property="se:subject">Biography</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Biography Prize Winners</meta>
-		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
 		<dc:description id="description">A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
