@@ -32,7 +32,7 @@
 		<dc:subject id="subject-2">Great Britain -- History -- Victoria, 1837-1901</dc:subject>
 		<dc:subject id="subject-3">Queens -- Great Britain -- Biography</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">n79017983</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85056823</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
