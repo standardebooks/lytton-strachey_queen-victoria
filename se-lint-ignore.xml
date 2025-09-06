@@ -5,8 +5,6 @@
 			<code>t-017</code>
 			<reason>Punctuation is part of the book title.</reason>
 		</ignore>
-	</file>
-	<file path="endnotes.xhtml">
 		<ignore>
 			<code>t-021</code>
 			<reason>Matched text is not a measurement.</reason>
